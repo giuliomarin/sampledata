@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<id>"21_E_50C_00043"</id>
+<version>4</version>
+<numCameras>3</numCameras>
+<calibrationType>FACTORY</calibrationType>
+<calibrationTime>"2015-10-30 19:57:29"</calibrationTime>
+<camera_calibrations>
+  <camera_0>
+    <camera_id>0</camera_id>
+    <resolution>
+      1032 778</resolution>
+    <K type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>
+    		994.345 0 485.416
+    		0 991.23 389.565
+    		0 0 1
+    	</data></K>
+    <D type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>5</cols>
+      <dt>d</dt>
+      <data>
+        -0.316425 0.129006 0.000356589 -9.12675e-006 0.0174927</data></D>
+    <R type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>
+        1. 0. 0. 0. 1. 0. 0. 0. 1.</data></R>
+    <T type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>
+        0. 0. 0.</data></T></camera_0>
+  <camera_1>
+    <camera_id>1</camera_id>
+    <resolution>
+      1032 778</resolution>
+    <K type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>
+        994.53 0 485.948
+    		0 992.695 411.473
+    		0 0 1</data></K>
+    <D type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>5</cols>
+      <dt>d</dt>
+      <data>
+        -0.324221 0.189732 0.000625078 -4.0385e-005 -0.0942171</data></D>
+    <R type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>
+        0.999939 0.00264825 0.0106936
+    		-0.00266179 0.999996 0.00125153
+    		-0.0106903 -0.00127991 0.999942 </data></R>
+    <T type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>
+        -176.695 -1.13635 6.07227</data></T></camera_1>
+  <camera_2>
+    <camera_id>2</camera_id>
+    <resolution>
+      176 144</resolution>
+    <K type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>
+        252.54 0 85.8129
+    		0 251.999 67.848
+    		0 0 1 </data></K>
+    <D type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>5</cols>
+      <dt>d</dt>
+      <data>
+        -0.9333 1.44659 0.00120219 0.007329 -3.49734</data></D>
+    <R type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>
+        0.999981 -0.00139989 -0.00604004
+    		0.00136531 0.999983 -0.00572529
+    		0.00604795 0.00571694 0.999965</data></R>
+    <T type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>
+        -60.8341 9.47173 1.82519</data></T></camera_2></camera_calibrations>
+<err_reprjRMS>6.8095600000000006e-002</err_reprjRMS>
+<err_reprjPerc99>1.8865999999999999e-001</err_reprjPerc99>
+</opencv_storage>
