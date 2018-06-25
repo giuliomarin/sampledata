@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<id>zed</id>
+<version>4</version>
+<numCameras>2</numCameras>
+<calibrationType>FACTORY</calibrationType>
+<calibrationTime>"2017-11-24 14:08:25"</calibrationTime>
+<camera_calibrations>
+  <camera_0>
+    <camera_id>0</camera_id>
+    <resolution>
+      1920 1080</resolution>
+    <K type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>
+        1.3954276073712110e+03 0. 1.0258705050400913e+03 0.
+        1.3985608433277639e+03 5.5138531043472881e+02 0. 0. 1.</data></K>
+    <D type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>5</cols>
+      <dt>d</dt>
+      <data>
+        -1.5896807443745120e-01 -1.5490148714078262e-02
+        -3.6920994856665215e-04 3.2888283758947988e-04
+        3.1474120475357872e-02</data></D>
+    <R type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>
+        1. 0. 0. 0. 1. 0. 0. 0. 1.</data></R>
+    <T type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>
+        0. 0. 0.</data></T></camera_0>
+  <camera_1>
+    <camera_id>1</camera_id>
+    <resolution>
+      1920 1080</resolution>
+    <K type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>
+        1.3962422914178026e+03 0. 1.0568877579223513e+03 0.
+        1.3982777821463369e+03 6.1890758392368298e+02 0. 0. 1.</data></K>
+    <D type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>5</cols>
+      <dt>d</dt>
+      <data>
+        -1.6194207437958114e-01 -1.1171398007157196e-02
+        9.4982430116637747e-05 2.1191288795216690e-04
+        3.0879619128726159e-02</data></D>
+    <R type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>
+        9.9999719045834923e-01 1.9074128036944033e-04
+        2.3627723487400745e-03 -1.8381176252713795e-04
+        9.9999568284641960e-01 -2.9326612076721490e-03
+        -2.3633215278426102e-03 2.9322186628884667e-03
+        9.9999290837738897e-01</data></R>
+    <T type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>
+        -1.1996844699181680e+02 1.4795419800335491e-01
+        -1.6476375086605874e+00</data></T></camera_1></camera_calibrations>
+<err_reprjRMS>2.4979072809219360e-01</err_reprjRMS>
+<err_reprjPerc99>5.1489257812500000e-01</err_reprjPerc99>
+</opencv_storage>
